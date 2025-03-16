@@ -1,7 +1,7 @@
 { 
   "Videos": [  
-    { "url": "https://cdn.pixabay.com/video/2025/02/23/260397_large.mp4", "name": "nature video" },  
-    { "url": "https://cdn.pixabay.com/video/2025/03/03/262215_large.mp4", "name": "Cinema video" },  
-    { "url": "https://cdn.pixabay.com/video/2024/02/28/202368-918049003_large.mp4", "name": "newyork video" }  
+    { "image":"https://cdn.pixabay.com/photo/2018/01/12/14/24/night-3078326_1280.jpg" , "url": "https://cdn.pixabay.com/video/2025/02/23/260397_large.mp4", "name": "nature video" },  
+    { "image":"https://cdn.pixabay.com/photo/2019/12/28/16/36/trees-4725165_1280.jpg" , "url": "https://cdn.pixabay.com/video/2025/03/03/262215_large.mp4", "name": "Cinema video" },  
+    { "image":"https://cdn.pixabay.com/photo/2024/02/09/13/03/beach-8563083_1280.jpg" , "url": "https://cdn.pixabay.com/video/2024/02/28/202368-918049003_large.mp4", "name": "newyork video" }  
   ]  
 }
