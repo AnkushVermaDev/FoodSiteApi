@@ -1,65 +1,46 @@
 {
-"Profile":[
-
-  {
-    "id":1,
-    "name":"Akash Sharma",
-    "Profileurl":"https://img.freepik.com/free-photo/medium-shot-smiley-man-posing_23-2149915905.jpg?t=st=1742235009~exp=1742238609~hmac=f4bac1fc39f9795582fc8ab29a0966092306ddbf175eb553d757beff6e2f9d43&w=740",
-    "PostUrl":"https://images.pexels.com/photos/1172064/pexels-photo-1172064.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-    "caption":""
-
-  },  
-
-   {
-    "id":2,
-    "name":"Janvi verma",
-    "Profileurl":"https://img.freepik.com/free-photo/woman-looks-wrist-watch-comes-date-with-boyfriend-being-late-checks-time-poses-outdoors-against-city-building_273609-55769.jpg?t=st=1742235045~exp=1742238645~hmac=6043fe8b8f5d45ab70972df70a843da9fb2f896e9fb283d8f461c82293af7f92&w=900",
-    "PostUrl":"https://images.pexels.com/photos/620337/pexels-photo-620337.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-    "caption":""
-
-  },  
-
-
-   {
-    "id":1,
-    "name":"abishek kumar",
-    "Profileurl":"https://img.freepik.com/free-photo/smiley-man-with-headphones-front-view_23-2149915903.jpg?t=st=1742235074~exp=1742238674~hmac=b11676380bd4619511836cc55443f0579b43983919879b5b5c57cde8780c7dd4&w=740",
-    "PostUrl":"https://images.pexels.com/photos/1761279/pexels-photo-1761279.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-    "caption":""
-
-  },  
-
-
-   {
-    "id":3,
-    "name":"Yash joshi",
-    "Profileurl":"https://img.freepik.com/free-photo/smiley-man-holding-camera-medium-shot_23-2149915897.jpg?t=st=1742235106~exp=1742238706~hmac=4cb7fc76e073ed77b549741bc64db73c62b017f2d895e1a3ddf05ee666c11461&w=740",
-    "PostUrl":"https://images.pexels.com/photos/414612/pexels-photo-414612.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-    "caption":""
-
-  },  
-
-   {
-    "id":4,
-    "name":"Binnu dhilion",
-    "Profileurl":"",
-    "PostUrl":"https://images.pexels.com/photos/1266810/pexels-photo-1266810.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-    "caption":""
-
-  },  
-
-   {
-    "id":5,
-    "name":"Rohit bhalla",
-    "Profileurl":"https://img.freepik.com/free-photo/man-outdoors-winter-wearing-ear-muffs_23-2148795456.jpg?t=st=1742235138~exp=1742238738~hmac=09eb6c654e1b2e2125e83e3cc66989372f314d3cf0e7f4d8c7c02850eca1d880&w=900",
-    "PostUrl":"https://images.pexels.com/photos/1933320/pexels-photo-1933320.jpeg?auto=compress&cs=tinysrgb&w=600",
-    "caption":""
-
-  },  
-
-
-
-]
-
-  
+  "Profile": [
+    {
+      "id": 1,
+      "name": "Akash Sharma",
+      "Profileurl": "https://img.freepik.com/free-photo/medium-shot-smiley-man-posing_23-2149915905.jpg?t=st=1742235009~exp=1742238609~hmac=f4bac1fc39f9795582fc8ab29a0966092306ddbf175eb553d757beff6e2f9d43&w=740",
+      "PostUrl": "https://images.pexels.com/photos/1172064/pexels-photo-1172064.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "caption": ""
+    },
+    {
+      "id": 2,
+      "name": "Janvi Verma",
+      "Profileurl": "https://img.freepik.com/free-photo/woman-looks-wrist-watch-comes-date-with-boyfriend-being-late-checks-time-poses-outdoors-against-city-building_273609-55769.jpg?t=st=1742235045~exp=1742238645~hmac=6043fe8b8f5d45ab70972df70a843da9fb2f896e9fb283d8f461c82293af7f92&w=900",
+      "PostUrl": "https://images.pexels.com/photos/620337/pexels-photo-620337.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "caption": ""
+    },
+    {
+      "id": 3,
+      "name": "Abishek Kumar",
+      "Profileurl": "https://img.freepik.com/free-photo/smiley-man-with-headphones-front-view_23-2149915903.jpg?t=st=1742235074~exp=1742238674~hmac=b11676380bd4619511836cc55443f0579b43983919879b5b5c57cde8780c7dd4&w=740",
+      "PostUrl": "https://images.pexels.com/photos/1761279/pexels-photo-1761279.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "caption": ""
+    },
+    {
+      "id": 4,
+      "name": "Yash Joshi",
+      "Profileurl": "https://img.freepik.com/free-photo/smiley-man-holding-camera-medium-shot_23-2149915897.jpg?t=st=1742235106~exp=1742238706~hmac=4cb7fc76e073ed77b549741bc64db73c62b017f2d895e1a3ddf05ee666c11461&w=740",
+      "PostUrl": "https://images.pexels.com/photos/414612/pexels-photo-414612.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "caption": ""
+    },
+    {
+      "id": 5,
+      "name": "Binnu Dhilion",
+      "Profileurl": "",
+      "PostUrl": "https://images.pexels.com/photos/1266810/pexels-photo-1266810.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "caption": ""
+    },
+    {
+      "id": 6,
+      "name": "Rohit Bhalla",
+      "Profileurl": "https://img.freepik.com/free-photo/man-outdoors-winter-wearing-ear-muffs_23-2148795456.jpg?t=st=1742235138~exp=1742238738~hmac=09eb6c654e1b2e2125e83e3cc66989372f314d3cf0e7f4d8c7c02850eca1d880&w=900",
+      "PostUrl": "https://images.pexels.com/photos/1933320/pexels-photo-1933320.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "caption": ""
+    }
+  ]
 }
