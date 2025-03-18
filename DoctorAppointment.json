@@ -84,7 +84,7 @@
     {
       "name": "Dr. Shalini Sharma",
       "experience_years": 14,
-      "specialist_in": "Dermatologist",
+      "specialist_in": "Dermatologist hair",
       "appointment_day": "Monday, Wednesday, Friday",
       "appointment_time": "3:00 PM - 6:00 PM",
       "pic_url": "https://raw.githubusercontent.com/AnkushVermaDev/FoodSiteApi/refs/heads/main/wmremove-transformed.jpeg",
@@ -93,7 +93,7 @@
     {
       "name": "Dr. Rajat Kapoor",
       "experience_years": 17,
-      "specialist_in": "Dermatologist",
+      "specialist_in": "Dermatologist hair",
       "appointment_day": "Tuesday, Thursday, Saturday",
       "appointment_time": "11:00 AM - 2:00 PM",
       "pic_url": "https://raw.githubusercontent.com/AnkushVermaDev/FoodSiteApi/refs/heads/main/wmremove-transformed.jpeg",
@@ -102,7 +102,7 @@
     {
       "name": "Dr. Nisha Aggarwal",
       "experience_years": 13,
-      "specialist_in": "Dermatologist",
+      "specialist_in": "Dermatologist hair",
       "appointment_day": "Monday to Friday",
       "appointment_time": "9:00 AM - 12:00 PM",
       "pic_url": "https://raw.githubusercontent.com/AnkushVermaDev/FoodSiteApi/refs/heads/main/wmremove-transformed.jpeg",
