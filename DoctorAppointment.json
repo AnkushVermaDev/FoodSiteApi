@@ -1,0 +1,264 @@
+{
+  "doctors": [
+    // Gynecologist
+    {
+      "name": "Dr. Sneha Verma",
+      "experience_years": 10,
+      "specialist_in": "Gynecologist",
+      "appointment_day": "Monday, Wednesday, Friday",
+      "appointment_time": "9:00 AM - 12:00 PM",
+      "pic_url": "https://raw.githubusercontent.com/AnkushVermaDev/FoodSiteApi/refs/heads/main/wmremove-transformed.jpeg",
+      "education": "MBBS, MD (Gynecology)"
+    },
+    {
+      "name": "Dr. Priyanka Singh",
+      "experience_years": 8,
+      "specialist_in": "Gynecologist",
+      "appointment_day": "Tuesday, Thursday",
+      "appointment_time": "11:00 AM - 2:00 PM",
+      "pic_url": "https://raw.githubusercontent.com/AnkushVermaDev/FoodSiteApi/refs/heads/main/wmremove-transformed.jpeg",
+      "education": "MBBS, MS (Obstetrics & Gynecology)"
+    },
+    {
+      "name": "Dr. Kavita Yadav",
+      "experience_years": 12,
+      "specialist_in": "Gynecologist",
+      "appointment_day": "Monday, Saturday",
+      "appointment_time": "2:00 PM - 5:00 PM",
+      "pic_url": "https://raw.githubusercontent.com/AnkushVermaDev/FoodSiteApi/refs/heads/main/wmremove-transformed.jpeg",
+      "education": "MBBS, DGO"
+    },
+
+    // Orthopedic
+    {
+      "name": "Dr. Ramesh Gupta",
+      "experience_years": 15,
+      "specialist_in": "Orthopedic",
+      "appointment_day": "Monday, Wednesday, Friday",
+      "appointment_time": "11:00 AM - 3:00 PM",
+      "pic_url": "https://raw.githubusercontent.com/AnkushVermaDev/FoodSiteApi/refs/heads/main/wmremove-transformed.jpeg",
+      "education": "MBBS, MS (Orthopedics)"
+    },
+    {
+      "name": "Dr. Karan Patel",
+      "experience_years": 9,
+      "specialist_in": "Orthopedic",
+      "appointment_day": "Tuesday, Thursday",
+      "appointment_time": "10:00 AM - 1:00 PM",
+      "pic_url": "https://raw.githubusercontent.com/AnkushVermaDev/FoodSiteApi/refs/heads/main/wmremove-transformed.jpeg",
+      "education": "MBBS, MS (Orthopedics)"
+    },
+    {
+      "name": "Dr. Manish Bansal",
+      "experience_years": 11,
+      "specialist_in": "Orthopedic",
+      "appointment_day": "Wednesday, Friday",
+      "appointment_time": "3:00 PM - 6:00 PM",
+      "pic_url": "https://raw.githubusercontent.com/AnkushVermaDev/FoodSiteApi/refs/heads/main/wmremove-transformed.jpeg",
+      "education": "MBBS, MS (Orthopedics)"
+    },
+
+    // Cardiologist
+    {
+      "name": "Dr. Arjun Mehta",
+      "experience_years": 12,
+      "specialist_in": "Cardiologist",
+      "appointment_day": "Monday, Wednesday, Friday",
+      "appointment_time": "10:00 AM - 1:00 PM",
+      "pic_url": "https://raw.githubusercontent.com/AnkushVermaDev/FoodSiteApi/refs/heads/main/wmremove-transformed.jpeg",
+      "education": "MBBS, MD (Cardiology)"
+    },
+    {
+      "name": "Dr. Neha Jain",
+      "experience_years": 10,
+      "specialist_in": "Cardiologist",
+      "appointment_day": "Tuesday, Thursday",
+      "appointment_time": "2:00 PM - 5:00 PM",
+      "pic_url": "https://raw.githubusercontent.com/AnkushVermaDev/FoodSiteApi/refs/heads/main/wmremove-transformed.jpeg",
+      "education": "MBBS, MD (Cardiology)"
+    },
+    {
+      "name": "Dr. Rajesh Sharma",
+      "experience_years": 15,
+      "specialist_in": "Cardiologist",
+      "appointment_day": "Monday, Saturday",
+      "appointment_time": "3:00 PM - 6:00 PM",
+      "pic_url": "https://raw.githubusercontent.com/AnkushVermaDev/FoodSiteApi/refs/heads/main/wmremove-transformed.jpeg",
+      "education": "MBBS, DM (Cardiology)"
+    },
+
+    // Neurosurgeon
+    {
+      "name": "Dr. Vikram Patel",
+      "experience_years": 9,
+      "specialist_in": "Neurosurgeon",
+      "appointment_day": "Monday, Thursday",
+      "appointment_time": "3:00 PM - 6:00 PM",
+      "pic_url": "https://raw.githubusercontent.com/AnkushVermaDev/FoodSiteApi/refs/heads/main/wmremove-transformed.jpeg",
+      "education": "MBBS, MCh (Neurosurgery)"
+    },
+    {
+      "name": "Dr. Anjali Sen",
+      "experience_years": 13,
+      "specialist_in": "Neurosurgeon",
+      "appointment_day": "Tuesday, Friday",
+      "appointment_time": "11:00 AM - 2:00 PM",
+      "pic_url": "https://raw.githubusercontent.com/AnkushVermaDev/FoodSiteApi/refs/heads/main/wmremove-transformed.jpeg",
+      "education": "MBBS, MCh (Neurosurgery)"
+    },
+    {
+      "name": "Dr. Ravi Shukla",
+      "experience_years": 17,
+      "specialist_in": "Neurosurgeon",
+      "appointment_day": "Wednesday, Saturday",
+      "appointment_time": "10:00 AM - 1:00 PM",
+      "pic_url": "https://raw.githubusercontent.com/AnkushVermaDev/FoodSiteApi/refs/heads/main/wmremove-transformed.jpeg",
+      "education": "MBBS, MCh (Neurosurgery)"
+    },
+
+    // Dentist
+    {
+      "name": "Dr. Smita Desai",
+      "experience_years": 7,
+      "specialist_in": "Dentist",
+      "appointment_day": "Monday, Wednesday",
+      "appointment_time": "9:00 AM - 12:00 PM",
+      "pic_url": "https://raw.githubusercontent.com/AnkushVermaDev/FoodSiteApi/refs/heads/main/wmremove-transformed.jpeg",
+      "education": "BDS, MDS (Prosthodontics)"
+    },
+    {
+      "name": "Dr. Harsh Vardhan",
+      "experience_years": 5,
+      "specialist_in": "Dentist",
+      "appointment_day": "Tuesday, Thursday",
+      "appointment_time": "2:00 PM - 5:00 PM",
+      "pic_url": "https://raw.githubusercontent.com/AnkushVermaDev/FoodSiteApi/refs/heads/main/wmremove-transformed.jpeg",
+      "education": "BDS, MDS (Orthodontics)"
+    },
+    {
+      "name": "Dr. Pooja Agarwal",
+      "experience_years": 6,
+      "specialist_in": "Dentist",
+      "appointment_day": "Friday, Saturday",
+      "appointment_time": "11:00 AM - 2:00 PM",
+      "pic_url": "https://raw.githubusercontent.com/AnkushVermaDev/FoodSiteApi/refs/heads/main/wmremove-transformed.jpeg",
+      "education": "BDS, MDS (Periodontics)"
+    },
+
+    // ENT
+    {
+      "name": "Dr. Sunil Sharma",
+      "experience_years": 14,
+      "specialist_in": "ENT Specialist",
+      "appointment_day": "Monday, Thursday",
+      "appointment_time": "10:00 AM - 1:00 PM",
+      "pic_url": "https://raw.githubusercontent.com/AnkushVermaDev/FoodSiteApi/refs/heads/main/wmremove-transformed.jpeg",
+      "education": "MBBS, MS (ENT)"
+    },
+    {
+      "name": "Dr. Anita Verma",
+      "experience_years": 9,
+      "specialist_in": "ENT Specialist",
+      "appointment_day": "Tuesday, Friday",
+      "appointment_time": "2:00 PM - 5:00 PM",
+      "pic_url": "https://raw.githubusercontent.com/AnkushVermaDev/FoodSiteApi/refs/heads/main/wmremove-transformed.jpeg",
+      "education": "MBBS, MS (ENT)"
+    },
+    {
+      "name": "Dr. Rohit Jain",
+      "experience_years": 11,
+      "specialist_in": "ENT Specialist",
+      "appointment_day": "Wednesday, Saturday",
+      "appointment_time": "3:00 PM - 6:00 PM",
+      "pic_url": "https://raw.githubusercontent.com/AnkushVermaDev/FoodSiteApi/refs/heads/main/wmremove-transformed.jpeg",
+      "education": "MBBS, MS (ENT)"
+    },
+
+    // Bones
+    {
+      "name": "Dr. Tarun Mishra",
+      "experience_years": 8,
+      "specialist_in": "Bone Specialist",
+      "appointment_day": "Monday, Thursday",
+      "appointment_time": "9:00 AM - 12:00 PM",
+      "pic_url": "https://raw.githubusercontent.com/AnkushVermaDev/FoodSiteApi/refs/heads/main/wmremove-transformed.jpeg",
+      "education": "MBBS, MS (Orthopedics)"
+    },
+    {
+      "name": "Dr. Sonali Gupta",
+      "experience_years": 10,
+      "specialist_in": "Bone Specialist",
+      "appointment_day": "Tuesday, Friday",
+      "appointment_time": "2:00 PM - 5:00 PM",
+      "pic_url": "https://raw.githubusercontent.com/AnkushVermaDev/FoodSiteApi/refs/heads/main/wmremove-transformed.jpeg",
+      "education": "MBBS, MS (Orthopedics)"
+    },
+    {
+      "name": "Dr. Mahesh Verma",
+      "experience_years": 12,
+      "specialist_in": "Bone Specialist",
+      "appointment_day": "Wednesday, Saturday",
+      "appointment_time": "10:00 AM - 1:00 PM",
+      "pic_url": "https://raw.githubusercontent.com/AnkushVermaDev/FoodSiteApi/refs/heads/main/wmremove-transformed.jpeg",
+      "education": "MBBS, MS (Orthopedics)"
+    },
+
+    // Hair
+    {
+      "name": "Dr. Ayesha Khan",
+      "experience_years": 7,
+      "specialist_in": "Hair Specialist",
+      "appointment_day": "Monday, Wednesday",
+      "appointment_time": "11:00 AM - 2:00 PM",
+      "pic_url": "https://raw.githubusercontent.com/AnkushVermaDev/FoodSiteApi/refs/heads/main/wmremove-transformed.jpeg",
+      "education": "MBBS, MD (Dermatology)"
+    },
+    {
+      "name": "Dr. Aditya Rawat",
+      "experience_years": 9,
+      "specialist_in": "Hair Specialist",
+      "appointment_day": "Tuesday, Thursday",
+      "appointment_time": "3:00 PM - 6:00 PM",
+      "pic_url": "https://raw.githubusercontent.com/AnkushVermaDev/FoodSiteApi/refs/heads/main/wmremove-transformed.jpeg",
+      "education": "MBBS, MD (Dermatology)"
+    },
+    {
+      "name": "Dr. Ritu Sharma",
+      "experience_years": 6,
+      "specialist_in": "Hair Specialist",
+      "appointment_day": "Friday, Saturday",
+      "appointment_time": "9:00 AM - 12:00 PM",
+      "pic_url": "https://raw.githubusercontent.com/AnkushVermaDev/FoodSiteApi/refs/heads/main/wmremove-transformed.jpeg",
+      "education": "MBBS, MD (Dermatology)"
+    },
+
+    // Skin
+    {
+      "name": "Dr. Priya Sharma",
+      "experience_years": 8,
+      "specialist_in": "Skin Specialist",
+      "appointment_day": "Monday, Thursday",
+      "appointment_time": "10:00 AM - 1:00 PM",
+      "pic_url": "https://raw.githubusercontent.com/AnkushVermaDev/FoodSiteApi/refs/heads/main/wmremove-transformed.jpeg",
+      "education": "MBBS, MD (Dermatology)"
+    },
+    {
+      "name": "Dr. Alok Jain",
+      "experience_years": 11,
+      "specialist_in": "Skin Specialist",
+      "appointment_day": "Tuesday, Friday",
+      "appointment_time": "2:00 PM - 5:00 PM",
+      "pic_url": "https://raw.githubusercontent.com/AnkushVermaDev/FoodSiteApi/refs/heads/main/wmremove-transformed.jpeg",
+      "education": "MBBS, MD (Dermatology)"
+    },
+    {
+      "name": "Dr. Meera Kapoor",
+      "experience_years": 9,
+      "specialist_in": "Skin Specialist",
+      "appointment_day": "Wednesday, Saturday",
+      "appointment_time": "3:00 PM - 6:00 PM",
+      "pic_url": "https://raw.githubusercontent.com/AnkushVermaDev/FoodSiteApi/refs/heads/main/wmremove-transformed.jpeg",
+      "education": "MBBS, MD (Dermatology)"
+    }
+  ]
+}
