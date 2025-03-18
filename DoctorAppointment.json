@@ -1,6 +1,5 @@
 {
   "doctors": [
-    // Gynecologist
     {
       "name": "Dr. Sneha Verma",
       "experience_years": 10,
@@ -29,7 +28,6 @@
       "education": "MBBS, DGO"
     },
 
-    // Orthopedic
     {
       "name": "Dr. Ramesh Gupta",
       "experience_years": 15,
@@ -58,7 +56,6 @@
       "education": "MBBS, MS (Orthopedics)"
     },
 
-    // Cardiologist
     {
       "name": "Dr. Arjun Mehta",
       "experience_years": 12,
@@ -87,7 +84,6 @@
       "education": "MBBS, DM (Cardiology)"
     },
 
-    // Neurosurgeon
     {
       "name": "Dr. Vikram Patel",
       "experience_years": 9,
@@ -116,7 +112,6 @@
       "education": "MBBS, MCh (Neurosurgery)"
     },
 
-    // Dentist
     {
       "name": "Dr. Smita Desai",
       "experience_years": 7,
@@ -145,7 +140,6 @@
       "education": "BDS, MDS (Periodontics)"
     },
 
-    // ENT
     {
       "name": "Dr. Sunil Sharma",
       "experience_years": 14,
@@ -174,7 +168,6 @@
       "education": "MBBS, MS (ENT)"
     },
 
-    // Bones
     {
       "name": "Dr. Tarun Mishra",
       "experience_years": 8,
@@ -203,7 +196,6 @@
       "education": "MBBS, MS (Orthopedics)"
     },
 
-    // Hair
     {
       "name": "Dr. Ayesha Khan",
       "experience_years": 7,
