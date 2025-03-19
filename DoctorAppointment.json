@@ -112,7 +112,7 @@
       "name": "Dr. Manish Sinha",
       "experience_years": 21,
       "specialist_in": "Cardiologist heart chest pain",
-      "appointment_day": "Monday, Wednesday, Friday",
+      "appointment_day": "Monday, tuesday, Friday",
       "appointment_time": "10:00 AM - 1:00 PM",
       "pic_url": "https://raw.githubusercontent.com/AnkushVermaDev/FoodSiteApi/refs/heads/main/wmremove-transformed.jpeg",
       "education": "MBBS, DM (Cardiology)"
