@@ -3,7 +3,7 @@
     {
       "name": "Dr. Sneha Verma",
       "experience_years": 10,
-      "specialist_in": "Gynecologist",
+      "specialist_in": "Gynecologist women health pregnancy",
       "appointment_day": "Monday, Wednesday, Friday",
       "appointment_time": "9:00 AM - 12:00 PM",
       "pic_url": "https://raw.githubusercontent.com/AnkushVermaDev/FoodSiteApi/refs/heads/main/wmremove-transformed.jpeg",
@@ -12,7 +12,7 @@
     {
       "name": "Dr. Priyanka Singh",
       "experience_years": 8,
-      "specialist_in": "Gynecologist",
+      "specialist_in": "Gynecologist women health pregnancy",
       "appointment_day": "Tuesday, Thursday",
       "appointment_time": "11:00 AM - 2:00 PM",
       "pic_url": "https://raw.githubusercontent.com/AnkushVermaDev/FoodSiteApi/refs/heads/main/wmremove-transformed.jpeg",
@@ -21,7 +21,7 @@
     {
       "name": "Dr. Kavita Yadav",
       "experience_years": 12,
-      "specialist_in": "Gynecologist",
+      "specialist_in": "Gynecologist women health pregnancy",
       "appointment_day": "Monday, Saturday",
       "appointment_time": "2:00 PM - 5:00 PM",
       "pic_url": "https://raw.githubusercontent.com/AnkushVermaDev/FoodSiteApi/refs/heads/main/wmremove-transformed.jpeg",
@@ -30,7 +30,7 @@
     {
       "name": "Dr. Ramesh Gupta",
       "experience_years": 15,
-      "specialist_in": "Orthopedic",
+      "specialist_in": "Orthopedic bones joints",
       "appointment_day": "Monday, Wednesday, Friday",
       "appointment_time": "11:00 AM - 3:00 PM",
       "pic_url": "https://raw.githubusercontent.com/AnkushVermaDev/FoodSiteApi/refs/heads/main/wmremove-transformed.jpeg",
@@ -39,7 +39,7 @@
     {
       "name": "Dr. Anil Sharma",
       "experience_years": 18,
-      "specialist_in": "Orthopedic",
+      "specialist_in": "Orthopedic bones joints",
       "appointment_day": "Tuesday, Thursday",
       "appointment_time": "10:00 AM - 1:00 PM",
       "pic_url": "https://raw.githubusercontent.com/AnkushVermaDev/FoodSiteApi/refs/heads/main/wmremove-transformed.jpeg",
@@ -48,7 +48,7 @@
     {
       "name": "Dr. Rajeev Mehta",
       "experience_years": 20,
-      "specialist_in": "Orthopedic",
+      "specialist_in": "Orthopedic bones joints",
       "appointment_day": "Monday, Saturday",
       "appointment_time": "3:00 PM - 6:00 PM",
       "pic_url": "https://raw.githubusercontent.com/AnkushVermaDev/FoodSiteApi/refs/heads/main/wmremove-transformed.jpeg",
@@ -57,7 +57,7 @@
     {
       "name": "Dr. Sunil Kumar",
       "experience_years": 22,
-      "specialist_in": "General Physician",
+      "specialist_in": "General Physician general checkup fever diabetes",
       "appointment_day": "Monday to Saturday",
       "appointment_time": "9:00 AM - 1:00 PM",
       "pic_url": "https://raw.githubusercontent.com/AnkushVermaDev/FoodSiteApi/refs/heads/main/wmremove-transformed.jpeg",
@@ -66,7 +66,7 @@
     {
       "name": "Dr. Seema Joshi",
       "experience_years": 16,
-      "specialist_in": "General Physician",
+      "specialist_in": "General Physician general checkup fever diabetes",
       "appointment_day": "Monday, Wednesday, Friday",
       "appointment_time": "2:00 PM - 5:00 PM",
       "pic_url": "https://raw.githubusercontent.com/AnkushVermaDev/FoodSiteApi/refs/heads/main/wmremove-transformed.jpeg",
@@ -75,7 +75,7 @@
     {
       "name": "Dr. Ajay Verma",
       "experience_years": 19,
-      "specialist_in": "General Physician",
+      "specialist_in": "General Physician general checkup fever diabetes",
       "appointment_day": "Tuesday, Thursday, Saturday",
       "appointment_time": "10:00 AM - 1:00 PM",
       "pic_url": "https://raw.githubusercontent.com/AnkushVermaDev/FoodSiteApi/refs/heads/main/wmremove-transformed.jpeg",
@@ -84,7 +84,7 @@
     {
       "name": "Dr. Shalini Sharma",
       "experience_years": 14,
-      "specialist_in": "Dermatologist hair",
+      "specialist_in": "Dermatologist hair skin acne",
       "appointment_day": "Monday, Wednesday, Friday",
       "appointment_time": "3:00 PM - 6:00 PM",
       "pic_url": "https://raw.githubusercontent.com/AnkushVermaDev/FoodSiteApi/refs/heads/main/wmremove-transformed.jpeg",
@@ -93,7 +93,7 @@
     {
       "name": "Dr. Rajat Kapoor",
       "experience_years": 17,
-      "specialist_in": "Dermatologist hair",
+      "specialist_in": "Dermatologist hair skin allergy",
       "appointment_day": "Tuesday, Thursday, Saturday",
       "appointment_time": "11:00 AM - 2:00 PM",
       "pic_url": "https://raw.githubusercontent.com/AnkushVermaDev/FoodSiteApi/refs/heads/main/wmremove-transformed.jpeg",
@@ -102,11 +102,56 @@
     {
       "name": "Dr. Nisha Aggarwal",
       "experience_years": 13,
-      "specialist_in": "Dermatologist hair",
+      "specialist_in": "Dermatologist hair skin pigmentation",
       "appointment_day": "Monday to Friday",
       "appointment_time": "9:00 AM - 12:00 PM",
       "pic_url": "https://raw.githubusercontent.com/AnkushVermaDev/FoodSiteApi/refs/heads/main/wmremove-transformed.jpeg",
       "education": "MBBS, DDVL"
+    },
+    {
+      "name": "Dr. Manish Sinha",
+      "experience_years": 21,
+      "specialist_in": "Cardiologist heart chest pain",
+      "appointment_day": "Monday, Wednesday, Friday",
+      "appointment_time": "10:00 AM - 1:00 PM",
+      "pic_url": "https://raw.githubusercontent.com/AnkushVermaDev/FoodSiteApi/refs/heads/main/wmremove-transformed.jpeg",
+      "education": "MBBS, DM (Cardiology)"
+    },
+    {
+      "name": "Dr. Ritu Bansal",
+      "experience_years": 18,
+      "specialist_in": "ENT Ear Nose Throat allergy sinus",
+      "appointment_day": "Tuesday, Thursday",
+      "appointment_time": "11:00 AM - 2:00 PM",
+      "pic_url": "https://raw.githubusercontent.com/AnkushVermaDev/FoodSiteApi/refs/heads/main/wmremove-transformed.jpeg",
+      "education": "MBBS, MS (ENT)"
+    },
+    {
+      "name": "Dr. Meenakshi Sharma",
+      "experience_years": 15,
+      "specialist_in": "Pediatrician child specialist kids",
+      "appointment_day": "Monday to Saturday",
+      "appointment_time": "9:00 AM - 12:00 PM",
+      "pic_url": "https://raw.githubusercontent.com/AnkushVermaDev/FoodSiteApi/refs/heads/main/wmremove-transformed.jpeg",
+      "education": "MBBS, MD (Pediatrics)"
+    },
+    {
+      "name": "Dr. Alok Gupta",
+      "experience_years": 20,
+      "specialist_in": "Neurologist brain nerves stroke",
+      "appointment_day": "Wednesday, Saturday",
+      "appointment_time": "3:00 PM - 6:00 PM",
+      "pic_url": "https://raw.githubusercontent.com/AnkushVermaDev/FoodSiteApi/refs/heads/main/wmremove-transformed.jpeg",
+      "education": "MBBS, DM (Neurology)"
+    },
+    {
+      "name": "Dr. Neha Kapoor",
+      "experience_years": 12,
+      "specialist_in": "Psychiatrist mental health depression anxiety",
+      "appointment_day": "Tuesday, Thursday",
+      "appointment_time": "2:00 PM - 5:00 PM",
+      "pic_url": "https://raw.githubusercontent.com/AnkushVermaDev/FoodSiteApi/refs/heads/main/wmremove-transformed.jpeg",
+      "education": "MBBS, MD (Psychiatry)"
     }
   ]
 }
